@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+  The contents of <barrier> are available only with C++20 or later.
+     Creating library C:\Users\VirusTest\source\repos\bitcoin-addressgeneratordlll-lib\Release\bitcoin-addressgeneratordlll-lib.lib and object C:\Users\VirusTest\source\repos\bitcoin-addressgeneratordlll-lib\Release\bitcoin-addressgeneratordlll-lib.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  bitcoin-addressgeneratordlll-lib.vcxproj -> C:\Users\VirusTest\source\repos\bitcoin-addressgeneratordlll-lib\Release\bitcoin-addressgeneratordlll-lib.dll
