@@ -1,2 +1,2 @@
-# bitcoin-addressgeneratordlll-lib
-bitcoin-addressgeneratordlll-lib by GrayWorldFinex(C++)
+# bitcoin-addressgeneratordll-lib
+bitcoin-addressgeneratordll-lib by GrayWorldFinex(C++)
